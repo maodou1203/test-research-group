@@ -3,12 +3,12 @@ title: Geometric Invariant Digital Image Watermarking Scheme Based on Histogram 
   DWT Domain
 authors:
 - Chi-Man Pun
-- Xiaochen Yuan
+- admin
 date: '2010-10-01'
 publishDate: '2024-01-12T13:02:33.051687Z'
 publication_types:
 - article-journal
-publication: '*Journal of Multimedia*'
+publication: "in *Journal of Multimedia* [EI]"
 doi: 10.4304/jmm.5.5.434-442
 abstract: A robust and geometric invariant digital watermarking scheme for gray-level
   images is proposed in this paper. The scheme carries out watermark embedding and
