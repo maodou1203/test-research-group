@@ -3,12 +3,12 @@ title: Image Alignment-Based Multi-Region Matching for Object-Level Tampering De
 authors:
 - Chi-Man Pun
 - Caiping Yan
-- Xiao-Chen Yuan
+- admin
 date: '2017-02-01'
 publishDate: '2024-01-12T13:02:33.149683Z'
 publication_types:
 - article-journal
-publication: '*IEEE Transactions on Information Forensics and Security*'
+publication: 'in *IEEE Transactions on Information Forensics and Security* [SCI, JCR Q1]"'
 doi: 10.1109/TIFS.2016.2615272
 abstract: Tampering detection methods based on image hashing have been widely studied
   with continuous advancements. However, most existing models cannot generate object-level
