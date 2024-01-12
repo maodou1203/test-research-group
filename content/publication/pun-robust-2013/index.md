@@ -1,13 +1,13 @@
 ---
 title: Robust Segments Detector for De-Synchronization Resilient Audio Watermarking
-authors: 
+authors:
 - Chi-Man Pun
-- admin
+- Xiao-Chen Yuan
 date: '2013-11-01'
 publishDate: '2024-01-12T13:02:33.078521Z'
 publication_types:
 - article-journal
-publication: "in *IEEE Transactions on Audio, Speech, and Language Processing* [SCI, JCR Q2]"
+publication: '*IEEE Transactions on Audio, Speech, and Language Processing*'
 doi: 10.1109/TASL.2013.2279312
 abstract: A robust feature points detector for invariant audio watermarking is proposed
   in this paper. The audio segments centering at the detected feature points are extracted

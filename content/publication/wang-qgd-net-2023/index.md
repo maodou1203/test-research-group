@@ -5,14 +5,14 @@ authors:
 - Jingchao Wang
 - Guoheng Huang
 - Guo Zhong
-- admin
+- Xiaochen Yuan
 - Chi-Man Pun
 - Jie Deng
 date: '2023-12-01'
 publishDate: '2024-01-12T13:25:46.899136Z'
 publication_types:
 - article-journal
-publication: 'in *IEEE Journal of Biomedical and Health Informatics* [SCI, JCR Q1]'
+publication: '*IEEE Journal of Biomedical and Health Informatics*'
 doi: 10.1109/JBHI.2023.3320953
 links:
 - name: URL
