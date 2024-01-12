@@ -47,7 +47,7 @@ sections:
           location: Macau
           date_start: '2013-11-01'
           date_end: '2014-01-31'
-      design:
+    design:
       columns: '2'
         
   
