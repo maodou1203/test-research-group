@@ -1,0 +1,44 @@
+---
+title: Detection of weak electromagnetic interference attacks based on fingerprint
+  in IIoT systems
+authors:
+- Kai Fang
+- Tingting Wang
+- Xiaochen Yuan
+- Chunyu Miao
+- Yuanyuan Pan
+- Jianqing Li
+date: '2022-01-01'
+publishDate: '2024-01-12T11:55:04.558984Z'
+publication_types:
+- article-journal
+publication: '*Future Generation Computer Systems*'
+doi: https://doi.org/10.1016/j.future.2021.08.020
+abstract: In Industrial Internet of Things (IIoT) systems, the intelligent devices
+  are vulnerable to be attacked by weak Electromagnetic Interference (EMI), thereby
+  threatening the security of the systems. Therefore, it is of great significance
+  to investigate the weak EMI attack of IIoT systems. The different manufacturing
+  processes and deployment environments make the intelligent devices carry different
+  noises, called fingerprints, which are unchanged unless these intelligent devices
+  are attacked. Hence, we can detect weak EMI attacks by judging whether the fingerprint
+  of intelligent device has been changed, which is different from using professional
+  detection equipment as in other methods. Based on the fingerprint of intelligent
+  device, this paper proposes a highly efficient weak EMI attack detection method
+  which is divided into three steps. First, the fingerprint is extracted by Linear
+  Time-Invariant (LTI) model and Kalman algorithm. Second, according to the extracted
+  fingerprint, a fusion model is designed to determine whether the device is attacked
+  by weak EMI. In the fusion model, Feature Extraction Unit (FEU) combines with Long
+  Short-Term Memory (LSTM) to improve the detection accuracy. Finally, an edge computing
+  framework is proposed to enhance the efficiency of the method. The experimental
+  results show that the detection accuracy and the efficiency of the proposed method
+  are 5.2% and 42.2% higher than those of the state-of-the-art method, respectively.
+tags:
+- Edge computing
+- EMI attack
+- FEU-LSTM
+- Fingerprint
+- IIoT
+links:
+- name: URL
+  url: https://www.sciencedirect.com/science/article/pii/S0167739X21003289
+---
