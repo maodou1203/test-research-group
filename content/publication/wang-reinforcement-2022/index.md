@@ -6,13 +6,13 @@ authors:
 - Bingxian Lu
 - Wei Wang
 - Wei Wei
-- admin
+- Xiaochen Yuan
 - Jianqing Li
 date: '2022-01-01'
 publishDate: '2024-01-12T13:02:32.823464Z'
 publication_types:
 - article-journal
-publication: "in *IEEE Transactions on Emerging Topics in Computational Intelligence* [SCI, JCR Q1]"
+publication: '*IEEE Transactions on Emerging Topics in Computational Intelligence*'
 doi: 10.1109/TETCI.2022.3145694
 abstract: Task scheduling on edge computing servers is a critical concern affecting
   user experience. Current scheduling methods attain an overall appealing performance

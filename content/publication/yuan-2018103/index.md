@@ -1,16 +1,13 @@
 ---
 title: Local multi-watermarking method based on robust and adaptive feature extraction
 authors:
-- admin
-- admin-MianjieLi
-author_notes:
-- "corresponding author"
-- ""
+- Xiao-Chen Yuan
+- Mianjie Li
 date: '2018-01-01'
 publishDate: '2024-01-12T13:02:32.739628Z'
 publication_types:
 - article-journal
-publication: "in *Signal Processing* [SCI, JCR Q1]"
+publication: '*Signal Processing*'
 doi: https://doi.org/10.1016/j.sigpro.2018.03.007
 abstract: This paper proposes a local multi-watermarking method based on robust and
   adaptive feature extraction. The Robust and Adaptive Feature Detector based on DAISY

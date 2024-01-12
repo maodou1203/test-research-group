@@ -2,14 +2,14 @@
 title: Robust Mel-Frequency Cepstral coefficients feature detection and dual-tree
   complex wavelet transform for digital audio watermarking
 authors:
-- admin
+- Xiao-Chen Yuan
 - Chi-Man Pun
-- C.L.Philip Chen
+- C.L. Philip Chen
 date: '2015-01-01'
 publishDate: '2024-01-12T13:02:33.098258Z'
 publication_types:
 - article-journal
-publication: "in *Information Sciences* [SCI, JCR Q1]"
+publication: '*Information Sciences*'
 doi: https://doi.org/10.1016/j.ins.2014.11.040
 abstract: A novel digital audio watermarking scheme based on robust Mel-Frequency
   Cepstral coefficients feature detection and dual-tree complex wavelet transform
