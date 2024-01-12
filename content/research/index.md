@@ -10,7 +10,7 @@ sections:
       title: |
         Research
       text: |
-      
+        # Research
         Our Research Team in the Faculty of Applied Sciences at Macau Polytechnic University is dedicated to research in the field of digital security. Our research spans various aspects of digital multimedia processing, including digital watermarking, multimedia forensics, tampering detection, self-recovery, remote image processing, and the application of deep learning techniques. With a dedication to fostering the progress of artificial intelligence in security, we consistently push the boundaries of our field through innovative research. Our primary objective is to leverage our expertise to address key challenges in the field of digital security.
       
 #    design:
