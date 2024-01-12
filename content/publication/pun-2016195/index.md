@@ -3,12 +3,12 @@ title: Multi-scale noise estimation for image splicing forgery detection
 authors:
 - Chi-Man Pun
 - Bo Liu
-- Xiao-Chen Yuan
+- admin
 date: '2016-01-01'
 publishDate: '2024-01-12T13:02:33.129075Z'
 publication_types:
 - article-journal
-publication: '*Journal of Visual Communication and Image Representation*'
+"in *Journal of Visual Communication and Image Representation*  [SCI, JCR Q2]"
 doi: https://doi.org/10.1016/j.jvcir.2016.03.005
 abstract: Noise discrepancies in multiple scales are utilized as indicators for image
   splicing forgery detection in this paper. Specifically, the test image is initially

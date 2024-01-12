@@ -2,13 +2,13 @@
 title: Image Forgery Detection Using Adaptive Oversegmentation and Feature Point Matching
 authors:
 - Chi-Man Pun
-- Xiao-Chen Yuan
+- admin
 - Xiu-Li Bi
 date: '2015-08-01'
 publishDate: '2024-01-12T13:02:33.106140Z'
 publication_types:
 - article-journal
-publication: '*IEEE Transactions on Information Forensics and Security*'
+publication: "in *IEEE Transactions on Information Forensics and Security* [SCI, JCR Q1]"
 doi: 10.1109/TIFS.2015.2423261
 abstract: A novel copy-move forgery detection scheme using adaptive oversegmentation
   and feature point matching is proposed in this paper. The proposed scheme integrates
