@@ -8,7 +8,7 @@ sections:
   - block: hero
     content:
       title: |
-      Research
+        Research
       text: |
         conte
       
