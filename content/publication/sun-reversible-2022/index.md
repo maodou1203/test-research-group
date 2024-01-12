@@ -1,15 +1,16 @@
 ---
 title: Reversible multi-watermarking for color images with grayscale invariance
-authors:
-- Ying Sun
-- Xiaochen Yuan
-- Xingrun Wang
-- Jianqing Li
+authors: ["admin-YingSun", "admin", "admin-XingrunWang", "Jianqing Li"]
+author_notes:
+- ""
+- "corresponding author"
+- ""
+- ""
 date: '2022-11-01'
 publishDate: '2024-01-12T13:02:32.863819Z'
 publication_types:
 - article-journal
-publication: '*Multimedia Tools and Applications*'
+publication: "in *Multimedia Tools and Applications* [SCI, JCR Q2]"
 doi: 10.1007/s11042-022-14125-y
 abstract: As a special way of hiding information, reversible data hiding is mostly
   used to embed data into digital multimedia. The original multimedia and embedded
