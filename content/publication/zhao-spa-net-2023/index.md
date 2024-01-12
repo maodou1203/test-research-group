@@ -1,0 +1,51 @@
+---
+title: 'SPA-Net: A Deep Learning Approach Enhanced Using a Span-Partial Structure
+  and Attention Mechanism for Image Copy-Move Forgery Detection'
+authors:
+- Kaiqi Zhao
+- Xiaochen Yuan
+- Zhiyao Xie
+- Yan Xiang
+- Guoheng Huang
+- Li Feng
+date: '2023-01-01'
+publishDate: '2024-01-12T13:25:46.934963Z'
+publication_types:
+- article-journal
+publication: '*Sensors*'
+doi: 10.3390/s23146430
+abstract: With the wide application of visual sensors and development of digital image
+  processing technology, image copy-move forgery detection (CMFD) has become more
+  and more prevalent. Copy-move forgery is copying one or several areas of an image
+  and pasting them into another part of the same image, and CMFD is an efficient means
+  to expose this. There are improper uses of forged images in industry, the military,
+  and daily life. In this paper, we present an efficient end-to-end deep learning
+  approach for CMFD, using a span-partial structure and attention mechanism (SPA-Net).
+  The SPA-Net extracts feature roughly using a pre-processing module and finely extracts
+  deep feature maps using the span-partial structure and attention mechanism as a
+  SPA-net feature extractor module. The span-partial structure is designed to reduce
+  the redundant feature information, while the attention mechanism in the span-partial
+  structure has the advantage of focusing on the tamper region and suppressing the
+  original semantic information. To explore the correlation between high-dimension
+  feature points, a deep feature matching module assists SPA-Net to locate the copy-move
+  areas by computing the similarity of the feature map. A feature upsampling module
+  is employed to upsample the features to their original size and produce a copy-move
+  mask. Furthermore, the training strategy of SPA-Net without pretrained weights has
+  a balance between copy-move and semantic features, and then the module can capture
+  more features of copy-move forgery areas and reduce the confusion from semantic
+  objects. In the experiment, we do not use pretrained weights or models from existing
+  networks such as VGG16, which would bring the limitation of the network paying more
+  attention to objects other than copy-move areas.To deal with this problem, we generated
+  a SPANet-CMFD dataset by applying various processes to the benchmark images from
+  SUN and COCO datasets, and we used existing copy-move forgery datasets, CMH, MICC-F220,
+  MICC-F600, GRIP, Coverage, and parts of USCISI-CMFD, together with our generated
+  SPANet-CMFD dataset, as the training set to train our model. In addition, the SPANet-CMFD
+  dataset could play a big part in forgery detection, such as deepfakes. We employed
+  the CASIA and CoMoFoD datasets as testing datasets to verify the performance of
+  our proposed method. The Precision, Recall, and F1 are calculated to evaluate the
+  CMFD results. Comparison results showed that our model achieved a satisfactory performance
+  on both testing datasets and performed better than the existing methods.
+links:
+- name: URL
+  url: https://www.mdpi.com/1424-8220/23/14/6430
+---
