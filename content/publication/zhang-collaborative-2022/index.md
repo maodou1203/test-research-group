@@ -1,21 +1,22 @@
 ---
 title: Collaborative multi-feature extraction and scale-aware semantic information
   mining for medical image segmentation
-authors:
-- Ruijun Zhang
-- Zixuan He
-- Jian Zhu
-- Xiaochen Yuan
-- Guoheng Huang
-- Chi-Man Pun
-- Jianhong Peng
-- Junzhong Lin
-- Jian Zhou
+authors: ["Ruijun Zhang", "Zixuan He", "Jian Zhu", "admin", "Guoheng Huang", "Chi-Man Pun", "Jianhong Peng", "Junzhong Lin", "Jian Zhou"]
+author_notes:
+- ""
+- ""
+- ""
+- ""
+- ""
+- ""
+- ""
+- ""
+- ""
 date: '2022-10-01'
 publishDate: '2024-01-12T13:02:32.877254Z'
 publication_types:
 - article-journal
-publication: '*Physics in Medicine & Biology*'
+publication: "in *Physics in Medicine & Biology* [SCI, JCR Q1]"
 doi: 10.1088/1361-6560/ac95f5
 abstract: Objective. In recent years, methods based on U-shaped structure and skip
   connection have achieved remarkable results in many medical semantic segmentation

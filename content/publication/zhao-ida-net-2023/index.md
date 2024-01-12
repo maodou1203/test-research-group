@@ -2,20 +2,30 @@
 title: 'IDA-Net: Inheritable Deformable Attention Network of structural MRI for Alzheimer’s
   Disease Diagnosis'
 authors:
-- Qin Zhao
+- admin-QinZhao
 - Guoheng Huang
 - Pingping Xu
 - Ziyang Chen
 - Wenyuan Li
-- Xiaochen Yuan
+- admin
 - Guo Zhong
 - Chi-Man Pun
 - Zhixin Huang
+author_notes:
+- ""
+- "corresponding author"
+- ""
+- ""
+- ""
+- "corresponding author"
+- "corresponding author"
+- ""
+- "corresponding author"
 date: '2023-07-01'
 publishDate: '2024-01-12T13:02:33.169239Z'
 publication_types:
 - article-journal
-publication: '*Biomedical Signal Processing and Control*'
+publication: "in *Biomedical Signal Processing and Control* [SCIE, JCR Q2]"
 doi: 10.1016/j.bspc.2023.104787
 abstract: To precisely diagnose neurological diseases, such as Alzheimer’s disease,
   clinicians need to observe the microstructural changes of local brain atrophy with
