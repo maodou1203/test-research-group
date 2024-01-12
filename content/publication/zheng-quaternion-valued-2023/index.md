@@ -1,17 +1,18 @@
 ---
 title: Quaternion-Valued Correlation Learning for Few-Shot Semantic Segmentation
-authors:
-- Zewen Zheng
-- Guoheng Huang
-- Xiaochen Yuan
-- Chi-Man Pun
-- Hongrui Liu
-- Wing-Kuen Ling
+authors: ["Zewen Zheng", "Guoheng Huang", "admin", "Chi-Man Pun", "Hongrui Liu", "Wing-Kuen Ling"]
+author_notes:
+- ""
+- "corresponding author"
+- "corresponding author"
+- "corresponding author"
+- ""
+- ""
 date: '2023-05-01'
 publishDate: '2024-01-12T13:25:46.979866Z'
 publication_types:
 - article-journal
-publication: '*IEEE Transactions on Circuits and Systems for Video Technology*'
+publication: "in *IEEE Transactions on Circuits and Systems for Video Technology* [SCI,JCR Q1]"
 doi: 10.1109/TCSVT.2022.3223150
 abstract: Few-shot segmentation (FSS) aims to segment unseen classes given only a
   few annotated samples. Encouraging progress has been made for FSS by leveraging
