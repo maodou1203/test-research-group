@@ -21,7 +21,7 @@ publication_types:
 - article-journal
 publication: "in *IEEE/ACM Transactions on Audio, Speech, and Language Processing* [SCI,JCR Q1]"
 doi: 10.1109/TASLP.2023.3284509
-featured: True
+#featured: True
 links:
 - name: URL
   url: https://ieeexplore.ieee.org/document/10147368/
