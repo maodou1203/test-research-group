@@ -1,18 +1,25 @@
 ---
 title: Detection of weak electromagnetic interference attacks based on fingerprint
   in IIoT systems
-authors:
+authors: 
 - Kai Fang
 - Tingting Wang
-- Xiaochen Yuan
+- admin
 - Chunyu Miao
 - Yuanyuan Pan
 - Jianqing Li
+author_notes:
+- ""
+- ""
+- ""
+- ""
+- ""
+- ""
 date: '2022-01-01'
 publishDate: '2024-01-12T13:02:32.815847Z'
 publication_types:
 - article-journal
-publication: '*Future Generation Computer Systems*'
+publication: "in *Future Generation Computer Systems*  [SCI, JCR Q1]"
 doi: https://doi.org/10.1016/j.future.2021.08.020
 abstract: In Industrial Internet of Things (IIoT) systems, the intelligent devices
   are vulnerable to be attacked by weak Electromagnetic Interference (EMI), thereby

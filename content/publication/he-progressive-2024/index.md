@@ -1,12 +1,19 @@
 ---
 title: Progressive normalizing flow with learnable spectrum transform for style transfer
-authors:
+authors: 
 - Zixuan He
 - Guoheng Huang
-- Xiaochen Yuan
+- admin
 - Guo Zhong
 - Chi-Man Pun
 - Yiwen Zeng
+author_notes:
+- ""
+- "corresponding author"
+- ""
+- ""
+- ""
+- ""
 date: '2024-01-01'
 publishDate: '2024-01-12T13:25:46.869356Z'
 publication_types:

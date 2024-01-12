@@ -3,7 +3,7 @@ title: 'QMLS: quaternion mutual learning strategy for multi-modal brain tumor se
 authors:
 - Zhengnan Deng
 - Guoheng Huang
-- Xiaochen Yuan
+- admin
 - Guo Zhong
 - Tongxu Lin
 - Chi-Man Pun
@@ -13,7 +13,7 @@ date: '2023-12-01'
 publishDate: '2024-01-12T13:25:46.884028Z'
 publication_types:
 - article-journal
-publication: '*Physics in Medicine & Biology*'
+publication: 'in *Physics in Medicine & Biology* [SCI, JCR Q2]'
 doi: 10.1088/1361-6560/ad135e
 abstract: Objective. Due to non-invasive imaging and the multimodality of magnetic
   resonance imaging (MRI) images, MRI-based multi-modal brain tumor segmentation (MBTS)

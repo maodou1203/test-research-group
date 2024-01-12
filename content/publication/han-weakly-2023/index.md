@@ -1,22 +1,33 @@
 ---
 title: Weakly supervised semantic segmentation of histological tissue via attention
   accumulation and pixel-level contrast learning
-authors:
+authors: 
 - Yongqi Han
 - Lianglun Cheng
 - Guoheng Huang
 - Guo Zhong
 - Jiahua Li
-- Xiaochen Yuan
+- admin
 - Hongrui Liu
 - Jiao Li
 - Jian Zhou
 - Muyan Cai
+author_notes:
+- ""
+- ""
+- "corresponding author"
+- "corresponding author"
+- ""
+- "corresponding author"
+- "corresponding author"
+- ""
+- "corresponding author"
+- "corresponding author"
 date: '2023-02-01'
 publishDate: '2024-01-12T13:02:33.198377Z'
 publication_types:
 - article-journal
-publication: '*Physics in Medicine & Biology*'
+publication: "in *Physics in Medicine & Biology* [SCI,JCR Q2]"
 doi: 10.1088/1361-6560/acaeee
 abstract: Objective. Histopathology image segmentation can assist medical professionals
   in identifying and diagnosing diseased tissue more efficiently. Although fully supervised

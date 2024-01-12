@@ -2,16 +2,22 @@
 title: Triple-Classification of Respiratory Sounds Using Optimized S-Transform and
   Deep Residual Networks
 authors:
-- Hai Chen
-- Xiaochen Yuan
+- admin-HaiChen
+- admin
 - Zhiyuan Pei
-- Mianjie Li
+- admin-MianjieLi
 - Jianqing Li
+author_notes:
+- ""
+- "corresponding author"
+- ""
+- ""
+- ""
 date: '2019-01-01'
 publishDate: '2024-01-12T13:02:32.747267Z'
 publication_types:
 - article-journal
-publication: '*IEEE Access*'
+publication: "in *IEEE Access* [SCI, JCR Q1]"
 doi: 10.1109/ACCESS.2019.2903859
 abstract: Digital respiratory sounds provide valuable information for telemedicine
   and smart diagnosis in an non-invasive way of pathological detection. As the typical
