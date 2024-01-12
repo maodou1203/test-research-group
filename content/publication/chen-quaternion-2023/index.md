@@ -3,7 +3,7 @@ title: Quaternion Cross-modality Spatial Learning for Multi-modal Medical Image 
 authors:
 - Junyang Chen
 - Guoheng Huang
-- Xiaochen Yuan
+- admin
 - Guo Zhong
 - Zewen Zheng
 - Chi-Man Pun
@@ -13,7 +13,7 @@ date: '2023-01-01'
 publishDate: '2024-01-12T13:25:46.855971Z'
 publication_types:
 - article-journal
-publication: '*IEEE Journal of Biomedical and Health Informatics*'
+publication: 'in *IEEE Journal of Biomedical and Health Informatics* [SCI, JCR Q1]'
 doi: 10.1109/JBHI.2023.3346529
 abstract: Recently, the Deep Neural Networks (DNNs) have had a large impact on imaging
   process including medical image segmentation, and the real-valued convolution of

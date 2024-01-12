@@ -2,16 +2,22 @@
 title: Automatic multi-level in-exhale segmentation and enhanced generalized S-transform
   for wheezing detection
 authors:
-- Hai Chen
-- Xiaochen Yuan
+- admin-HaiChen
+- admin
 - Jianqing Li
 - Zhiyuan Pei
 - Xiaobin Zheng
+author_notes:
+- ""
+- "corresponding author"
+- ""
+- ""
+- ""
 date: '2019-01-01'
 publishDate: '2024-01-12T13:02:32.755247Z'
 publication_types:
 - article-journal
-publication: '*Computer Methods and Programs in Biomedicine*'
+publication: "in *Computer Methods and Programs in Biomedicine* [SCI, JCR Q1]"
 doi: https://doi.org/10.1016/j.cmpb.2019.06.024
 abstract: Background and objective Wheezing is a common symptom of patients caused
   by asthma and chronic obstructive pulmonary diseases. Wheezing detection identifies
