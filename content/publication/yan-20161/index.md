@@ -4,12 +4,12 @@ title: Multi-scale image hashing using adaptive local feature extraction for rob
 authors:
 - Cai-Ping Yan
 - Chi-Man Pun
-- Xiao-Chen Yuan
+- admin
 date: '2016-01-01'
 publishDate: '2024-01-12T13:02:33.114074Z'
 publication_types:
 - article-journal
-publication: '*Signal Processing*'
+publication: "in *Signal Processing* [SCI, JCR Q1]"
 doi: https://doi.org/10.1016/j.sigpro.2015.10.027
 abstract: The main problem addressed in this paper is the robust tampering detection
   of the image received in a transmission under various content-preserving attacks.
