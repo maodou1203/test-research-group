@@ -11,7 +11,46 @@ sections:
       title: Biography
       # Choose a user profile to display (a folder name within `content/authors/`)
       username: admin
+  
+  - block: experience
+    content:
+      title: Working Experience
+      items:
+        - title: Associate Professor
+          company: Macao Polytechnic University
+          company_url: 'https://www.mpu.edu.mo/zh/index.php'
+          company_logo: org-mpu
+          location: Macau
+          date_start: '2021-08-19'
+          date_end: ''
       
+        - title: Assistant Professor & Associate Professor
+          company: Macau University of Science and Technology
+          company_url: 'https://www.must.edu.mo/en'
+          company_logo: org-must
+          location: Macau
+          date_start: '2016-01-11'
+          date_end: '2021-07-31'
+      
+        - title: Postdoctoral Fellowship
+          company: University of Macau
+          company_url: 'https://www.um.edu.mo/'
+          company_logo: org-um
+          location: Macau
+          date_start: '2014-02-01'
+          date_end: '2015-10-31'
+          
+        - title: Research Assistant
+          company: University of Macau
+          company_url: 'https://www.um.edu.mo/'
+          company_logo: org-um
+          location: Macau
+          date_start: '2013-11-01'
+          date_end: '2014-01-31'
+      design:
+      columns: '2'
+        
+  
   - block: collection
     content:
       title: Latest News
