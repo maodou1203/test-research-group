@@ -2,17 +2,24 @@
 title: 'FRRW: A feature extraction-based robust and reversible watermarking scheme
   utilizing zernike moments and histogram shifting'
 authors:
-- Ying Sun
-- Xiaochen Yuan
-- Tong Liu
-- Guoheng Huang
-- Zhaojun Lin
-- Jianqing Li
+- "admin-YingSun"
+- "admin"
+- "admin-TongLiu"
+- "Guoheng Huang"
+- "Zhaojun Lin"
+- "Jianqing Li"
+author_notes:
+- ""
+- "corresponding author"
+- ""
+- ""
+- ""
+- ""
 date: '2023-09-01'
 publishDate: '2024-01-12T13:25:46.919662Z'
 publication_types:
 - article-journal
-publication: '*Journal of King Saud University - Computer and Information Sciences*'
+publication: "in *Journal of King Saud University Computer and Information Sciences* [SCI, JCR Q1]"
 doi: 10.1016/j.jksuci.2023.101698
 abstract: This paper introduces a feature extraction-based approach to ensure both
   robustness and reversibility of image. Low-order Zernike moments are utilized to
