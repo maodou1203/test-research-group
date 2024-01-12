@@ -3,12 +3,12 @@ title: Quaternion-Based Image Hashing for Adaptive Tampering Localization
 authors:
 - Cai-Ping Yan
 - Chi-Man Pun
-- Xiao-Chen Yuan
+- admin
 date: '2016-12-01'
 publishDate: '2024-01-12T13:02:33.136331Z'
 publication_types:
 - article-journal
-publication: '*IEEE Transactions on Information Forensics and Security*'
+publication: "in *IEEE Transactions on Information Forensics and Security* [SCI, JCR Q1]"
 doi: 10.1109/TIFS.2016.2594136
 abstract: Image-hashing-based tampering detection methods have been widely studied
   with continuous advancements. However, most of existing models are designed for
