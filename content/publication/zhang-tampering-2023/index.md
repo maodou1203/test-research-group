@@ -1,19 +1,22 @@
 ---
 title: Tampering localization and self-recovery using block labeling and adaptive
   significance
-authors:
-- Qiyuan Zhang
-- Xiaochen Yuan
-- Tong Liu
-- Chan-Tong Lam
-- Guoheng Huang
-- Di Lin
-- Ping Li
+authors: ["admin-QiyuanZhang", "admin", "admin-TongLiu", "Chan-Tong Lam", "Guoheng Huang", "Di Lin", "Ping Li"]
+author_notes:
+- ""
+- "corresponding author"
+- ""
+- ""
+- ""
+- ""
+- ""
+- ""
+- ""i
 date: '2023-09-01'
 publishDate: '2024-01-12T13:25:46.905646Z'
 publication_types:
 - article-journal
-publication: '*Expert Systems with Applications*'
+publication: "in *Expert Systems with Applications* [SCI, JCR Q1]"
 doi: 10.1016/j.eswa.2023.120228
 abstract: This paper proposes a scheme for localization and restoration of image tampered
   regions using block labelling and adaptive significance. To generate the watermark
