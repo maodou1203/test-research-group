@@ -1,25 +1,18 @@
 ---
 title: 'SPA-Net: A Deep Learning Approach Enhanced Using a Span-Partial Structure
   and Attention Mechanism for Image Copy-Move Forgery Detection'
-authors: 
-- "admin-KaiqiZhao"
-- "admin"
-- "admin-ZhiyaoXie"
-- "admin-YanXiang"
-- "Guoheng Huang"
-- "Li Feng"
-author_notes:
-- ""
-- "corresponding author"
-- ""
-- ""
-- ""
-- ""
+authors:
+- Kaiqi Zhao
+- Xiaochen Yuan
+- Zhiyao Xie
+- Yan Xiang
+- Guoheng Huang
+- Li Feng
 date: '2023-01-01'
 publishDate: '2024-01-12T13:25:46.934963Z'
 publication_types:
 - article-journal
-publication: "in *Sensors* [SCI,JCR Q2]"
+publication: '*Sensors*'
 doi: 10.3390/s23146430
 abstract: With the wide application of visual sensors and development of digital image
   processing technology, image copy-move forgery detection (CMFD) has become more

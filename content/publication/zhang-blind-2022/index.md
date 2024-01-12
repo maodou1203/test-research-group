@@ -1,18 +1,14 @@
 ---
 title: Blind Dual Watermarking Scheme Using Stucki Kernel and SPIHT for Image Self-Recovery
 authors:
-- admin-QiyuanZhang
-- admin
-- admin-TongLiu
-author_notes:
-- ""
-- "corresponding author"
-- ""
+- Qiyuan Zhang
+- Xiaochen Yuan
+- Tong Liu
 date: '2022-01-01'
 publishDate: '2024-01-12T13:02:32.842796Z'
 publication_types:
 - article-journal
-publication: "in *IEEE Access* [SCI, JCQ Q2]"
+publication: '*IEEE Access*'
 doi: 10.1109/ACCESS.2022.3204865
 abstract: In this paper we propose a blind dual watermarking scheme using Set Partitioning
   in Hierarchical Trees (SPIHT) and Stucki Kernel halftone technique for the tamper
