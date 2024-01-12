@@ -99,7 +99,7 @@ sections:
     design:
       columns: '1'
       
-  - block: collection
+  - block: markdown
     content:
       title: Vacanct positions
       subtitle:
