@@ -98,4 +98,13 @@ sections:
         {{% cta cta_link="./people/" cta_text="Meet the team →" %}}
     design:
       columns: '1'
+      
+  - block: collection
+    content:
+      title: Vacanct positions
+      subtitle:
+      text: We are recruiting the self-motivated Ph.D. and master students. If your are interested in our work, please send an email to us.
+    design:
+      view: compact
+      columns: '2'
 ---
