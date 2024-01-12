@@ -1,18 +1,17 @@
 ---
 title: 'C3MW: A Novel Comprehensive-Monitoring-Motivated Multi-model Watermarking
   Scheme for Tamper Detection and Self-recovery'
-authors: ["admin-QiyuanZhang", "admin", "Chan-Tong Lam", "Xing Zheng","Guoheng Huang"]
-author_notes:
-- ""
-- "corresponding author"
-- ""
-- ""
-- ""
+authors:
+- Qiyuan Zhang
+- Xiaochen Yuan
+- Chan-Tong Lam
+- Zheng Xing
+- Guoheng Huang
 date: '2023-10-01'
 publishDate: '2024-01-12T13:02:33.225404Z'
 publication_types:
 - article-journal
-publication: "in *Journal of King Saud University Computer and Information Sciences* [SCI, JCR Q1]"
+publication: '*Journal of King Saud University - Computer and Information Sciences*'
 doi: 10.1016/j.jksuci.2023.101795
 abstract: In this paper, we propose a novel Comprehensive-Monitoring-Motivated Multi-model
   Watermarking (C3MW) Scheme for tampering region localization and self-recovery for
