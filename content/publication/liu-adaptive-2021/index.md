@@ -2,13 +2,16 @@
 title: Adaptive Feature Calculation and Diagonal Mapping for Successive Recovery of
   Tampered Regions
 authors:
-- Tong Liu
-- Xiaochen Yuan
+- admin-TongLiu
+- admin
+author_notes:
+- ""
+- "corresponding author"
 date: '2021-07-01'
 publishDate: '2024-01-12T13:02:32.796361Z'
 publication_types:
 - article-journal
-publication: '*IEEE Transactions on Circuits and Systems for Video Technology*'
+publication: "in *IEEE Transactions on Circuits and Systems for Video Technology* [SCI, JCR Q1]"
 doi: 10.1109/TCSVT.2020.3032455
 abstract: This article proposes an adaptive scheme for image tampered region localization
   and content recovery. To generate the watermark information comprised of the authentication

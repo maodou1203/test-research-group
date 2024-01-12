@@ -1,16 +1,21 @@
 ---
 title: Quaternion Discrete Fourier Transform-Based Color Image Watermarking Method
   Using Quaternion QR Decomposition
-authors:
-- Mianjie Li
-- Xiaochen Yuan
-- Hai Chen
+authors: 
+- admin-MianjieLi
+- admin
+- admin-HaiChen
 - Jianqing Li
+authors_notes:
+- ""
+- "corresponding author"
+- ""
+- ""
 date: '2020-01-01'
 publishDate: '2024-01-12T13:02:32.769305Z'
 publication_types:
 - article-journal
-publication: '*IEEE Access*'
+publication: "in *IEEE Access* [SCI, JCR Q1]"
 doi: 10.1109/ACCESS.2020.2987914
 abstract: In this paper, a new Quaternion Discrete Fourier Transform (QDFT)-based
   digital color image watermarking method is presented. In addition, the Quaternion

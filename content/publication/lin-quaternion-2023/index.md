@@ -1,17 +1,24 @@
 ---
 title: Quaternion attention multi-scale widening network for endoscopy image super-resolution
-authors:
+authors: 
 - Junyu Lin
 - Guoheng Huang
 - Jun Huang
-- Xiaochen Yuan
+- admin
 - Yiwen Zeng
 - Cheng Shi
+author_notes:
+- ""
+- "corresponding author"
+- "corresponding author"
+- ""
+- ""
+- ""
 date: '2023-01-01'
 publishDate: '2024-01-12T13:02:33.179155Z'
 publication_types:
 - article-journal
-publication: '*Physics in Medicine & Biology*'
+publication: "in *Physics in Medicine & Biology* [SCIE, JCR Q2]"
 doi: 10.1088/1361-6560/acc002
 abstract: Objective. In the field of endoscopic imaging, Super-Resolution (SR) plays
   an important role in Manufactured Diagnosis, physicians and machine Automatic Diagnosis.

@@ -5,7 +5,7 @@ authors:
 - Tongxu Lin
 - Junyu Lin
 - Guoheng Huang
-- Xiaochen Yuan
+- admin
 - Guo Zhong
 - Fenfang Xie
 - Jiao Li
@@ -13,7 +13,7 @@ date: '2023-07-01'
 publishDate: '2024-01-12T13:25:46.943280Z'
 publication_types:
 - article-journal
-publication: '*Physics in Medicine & Biology*'
+publication: 'in *Physics in Medicine & Biology* [SCI, JCR Q2]'
 doi: 10.1088/1361-6560/ace1cf
 abstract: Objective. Due to the blurry edges and uneven shape of breast tumors, breast
   tumor segmentation can be a challenging task. Recently, deep convolution networks

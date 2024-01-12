@@ -1,15 +1,19 @@
 ---
 title: Dual-Tree Complex Wavelet Transform Based Audio Watermarking Using Distortion-Compensated
   Dither Modulation
-authors:
-- Mianjie Li
-- Xiaochen Yuan
+authors: 
+- admin-MianjieLi
+- admin
 - Jianqing Li
+author_notes:
+- ""
+- "corresponding author"
+- ""
 date: '2018-01-01'
 publishDate: '2024-01-12T13:02:32.729369Z'
 publication_types:
 - article-journal
-publication: '*IEEE Access*'
+publication: "in *IEEE Access* [SCI, JCR Q1]"
 doi: 10.1109/ACCESS.2018.2876233
 abstract: This paper presents a local audio watermarking method based on the dual-tree
   complex wavelet transform (DT CWT) and distortion-compensated dither modulation
