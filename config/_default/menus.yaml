@@ -12,11 +12,11 @@ main:
     identifier: people
     weight: 20
   - name: Current Member
-    PageRef: people/current-people/index.md
+    PageRef: people/current-people/_index.md
     weight: 10
     parent: people
   - name: Alumni
-    PageRef: people/graduates/index.md
+    PageRef: people/graduates/_index.md
     weight: 20
     parent: people
   - name: Research
@@ -44,10 +44,10 @@ main:
 #    weight: 70
 
 #  - name: Graduated Students
-#    PageRef: publication/index.md
+#    PageRef: publication/_index.md
 #    weight: 10
 #    parent: research
 #  - name: Current People
-#    PageRef: people/current-people/index.md
+#    PageRef: people/current-people/_index.md
 #    weight: 20
 #    parent: research
