@@ -2,15 +2,21 @@
 title: Point Cloud Plane Segmentation-Based Robust Image Matching for Camera Pose
   Estimation
 authors:
-- Junqi Bao
-- Xiaochen Yuan
+- admin-JunqiBao
+- admin
 - Guoheng Huang
 - Chan-Tong Lam
+author_notes:
+- ""
+- "corresponding author"
+- ""
+- ""
+- ""
 date: '2023-01-01'
 publishDate: '2024-01-12T13:02:33.188374Z'
 publication_types:
 - article-journal
-publication: '*Remote Sensing*'
+publication: "in *Remote Sensing* [JCR Q1]"
 doi: 10.3390/rs15020497
 abstract: The mainstream image matching method for recovering the motion of the camera
   is based on local feature matching, which faces the challenges of rotation, illumination,

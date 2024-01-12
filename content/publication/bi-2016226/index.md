@@ -1,15 +1,15 @@
 ---
 title: Multi-level dense descriptor and hierarchical feature matching for Copy–Move
   forgery detection
-authors:
+authors: 
 - Xiuli Bi
 - Chi-Man Pun
-- Xiao-Chen Yuan
+- admin
 date: '2016-01-01'
 publishDate: '2024-01-12T13:02:33.121534Z'
 publication_types:
 - article-journal
-publication: '*Information Sciences*'
+publication: "in *Information Sciences* [SCI, JCR Q1]"
 doi: https://doi.org/10.1016/j.ins.2016.01.061
 abstract: 'In this paper, a Multi-Level Dense Descriptor (MLDD) extraction method
   and a Hierarchical Feature Matching method are proposed to detect copy–move forgery
