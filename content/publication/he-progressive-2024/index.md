@@ -18,7 +18,7 @@ date: '2024-01-01'
 publishDate: '2024-01-12T13:25:46.869356Z'
 publication_types:
 - article-journal
-publication: '*Knowledge-Based Systems*'
+publication: 'in *Knowledge-Based Systems* [SCI,JCR Q1]'
 doi: 10.1016/j.knosys.2023.111277
 abstract: Most current style transfer models are designed as encoder–decoder structures.
   Some encoding operations, such as downsampling and pooling, cause a loss of image
