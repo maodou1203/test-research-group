@@ -1,268 +1,54 @@
 ---
-title: Slides
-summary: An introduction to using Wowchemy's Slides feature.
-authors: []
-tags: []
-categories: []
-date: '2019-02-05T00:00:00Z'
-slides:
-  # Choose a theme from https://github.com/hakimel/reveal.js#theming
-  theme: black
-  # Choose a code highlighting style (if highlighting enabled in `params.toml`)
-  #   Light style: github. Dark style: dracula (default).
-  highlight_style: dracula
+title: Tour
+date: 2022-10-24
+
+type: landing
+
+sections:
+  - block: slider
+    content:
+      slides:
+      - title: 👋 Welcome to the group
+        content: Take a look at what we're working on...
+        align: center
+        background:
+          image:
+            filename: coders.jpg
+            filters:
+              brightness: 0.7
+          position: right
+          color: '#666'
+      - title: Lunch & Learn ☕️
+        content: 'Share your knowledge with the group and explore exciting new topics together!'
+        align: left
+        background:
+          image:
+            filename: contact.jpg
+            filters:
+              brightness: 0.7
+          position: center
+          color: '#555'
+      - title: World-Class Semiconductor Lab
+        content: 'Just opened last month!'
+        align: right
+        background:
+          image:
+            filename: welcome.jpg
+            filters:
+              brightness: 0.5
+          position: center
+          color: '#333'
+        link:
+          icon: graduation-cap
+          icon_pack: fas
+          text: Join Us
+          url: ../contact/
+    design:
+      # Slide height is automatic unless you force a specific height (e.g. '400px')
+      slide_height: ''
+      is_fullscreen: true
+      # Automatically transition through slides?
+      loop: false
+      # Duration of transition between slides (in ms)
+      interval: 2000
 ---
-
-# We will release soon...
-
-[//]: # ([Wowchemy]&#40;https://wowchemy.com/&#41; | [Documentation]&#40;https://wowchemy.com/docs/content/slides/&#41;)
-
-[//]: # ()
-[//]: # (---)
-
-[//]: # ()
-[//]: # (## Features)
-
-[//]: # ()
-[//]: # (- Efficiently write slides in Markdown)
-
-[//]: # (- 3-in-1: Create, Present, and Publish your slides)
-
-[//]: # (- Supports speaker notes)
-
-[//]: # (- Mobile friendly slides)
-
-[//]: # ()
-[//]: # (---)
-
-[//]: # ()
-[//]: # (## Controls)
-
-[//]: # ()
-[//]: # (- Next: `Right Arrow` or `Space`)
-
-[//]: # (- Previous: `Left Arrow`)
-
-[//]: # (- Start: `Home`)
-
-[//]: # (- Finish: `End`)
-
-[//]: # (- Overview: `Esc`)
-
-[//]: # (- Speaker notes: `S`)
-
-[//]: # (- Fullscreen: `F`)
-
-[//]: # (- Zoom: `Alt + Click`)
-
-[//]: # (- [PDF Export]&#40;https://revealjs.com/pdf-export/&#41;)
-
-[//]: # ()
-[//]: # (---)
-
-[//]: # ()
-[//]: # (## Code Highlighting)
-
-[//]: # ()
-[//]: # (Inline code: `variable`)
-
-[//]: # ()
-[//]: # (Code block:)
-
-[//]: # ()
-[//]: # (```python)
-
-[//]: # (porridge = "blueberry")
-
-[//]: # (if porridge == "blueberry":)
-
-[//]: # (    print&#40;"Eating..."&#41;)
-
-[//]: # (```)
-
-[//]: # ()
-[//]: # (---)
-
-[//]: # ()
-[//]: # (## Math)
-
-[//]: # ()
-[//]: # (In-line math: $x + y = z$)
-
-[//]: # ()
-[//]: # (Block math:)
-
-[//]: # ()
-[//]: # ($$)
-
-[//]: # (f\left&#40; x \right&#41; = \;\frac{{2\left&#40; {x + 4} \right&#41;\left&#40; {x - 4} \right&#41;}}{{\left&#40; {x + 4} \right&#41;\left&#40; {x + 1} \right&#41;}})
-
-[//]: # ($$)
-
-[//]: # ()
-[//]: # (---)
-
-[//]: # ()
-[//]: # (## Fragments)
-
-[//]: # ()
-[//]: # (Make content appear incrementally)
-
-[//]: # ()
-[//]: # (```)
-
-[//]: # ({{%/* fragment */%}} One {{%/* /fragment */%}})
-
-[//]: # ({{%/* fragment */%}} **Two** {{%/* /fragment */%}})
-
-[//]: # ({{%/* fragment */%}} Three {{%/* /fragment */%}})
-
-[//]: # (```)
-
-[//]: # ()
-[//]: # (Press `Space` to play!)
-
-[//]: # ()
-[//]: # ({{% fragment %}} One {{% /fragment %}})
-
-[//]: # ({{% fragment %}} **Two** {{% /fragment %}})
-
-[//]: # ({{% fragment %}} Three {{% /fragment %}})
-
-[//]: # ()
-[//]: # (---)
-
-[//]: # ()
-[//]: # (A fragment can accept two optional parameters:)
-
-[//]: # ()
-[//]: # (- `class`: use a custom style &#40;requires definition in custom CSS&#41;)
-
-[//]: # (- `weight`: sets the order in which a fragment appears)
-
-[//]: # ()
-[//]: # (---)
-
-[//]: # ()
-[//]: # (## Speaker Notes)
-
-[//]: # ()
-[//]: # (Add speaker notes to your presentation)
-
-[//]: # ()
-[//]: # (```markdown)
-
-[//]: # ({{%/* speaker_note */%}})
-
-[//]: # ()
-[//]: # (- Only the speaker can read these notes)
-
-[//]: # (- Press `S` key to view)
-
-[//]: # (  {{%/* /speaker_note */%}})
-
-[//]: # (```)
-
-[//]: # ()
-[//]: # (Press the `S` key to view the speaker notes!)
-
-[//]: # ()
-[//]: # ({{< speaker_note >}})
-
-[//]: # ()
-[//]: # (- Only the speaker can read these notes)
-
-[//]: # (- Press `S` key to view)
-
-[//]: # (  {{< /speaker_note >}})
-
-[//]: # ()
-[//]: # (---)
-
-[//]: # ()
-[//]: # (## Themes)
-
-[//]: # ()
-[//]: # (- black: Black background, white text, blue links &#40;default&#41;)
-
-[//]: # (- white: White background, black text, blue links)
-
-[//]: # (- league: Gray background, white text, blue links)
-
-[//]: # (- beige: Beige background, dark text, brown links)
-
-[//]: # (- sky: Blue background, thin dark text, blue links)
-
-[//]: # ()
-[//]: # (---)
-
-[//]: # ()
-[//]: # (- night: Black background, thick white text, orange links)
-
-[//]: # (- serif: Cappuccino background, gray text, brown links)
-
-[//]: # (- simple: White background, black text, blue links)
-
-[//]: # (- solarized: Cream-colored background, dark green text, blue links)
-
-[//]: # ()
-[//]: # (---)
-
-[//]: # ()
-[//]: # ({{< slide background-image="/media/boards.jpg" >}})
-
-[//]: # ()
-[//]: # (## Custom Slide)
-
-[//]: # ()
-[//]: # (Customize the slide style and background)
-
-[//]: # ()
-[//]: # (```markdown)
-
-[//]: # ({{</* slide background-image="/media/boards.jpg" */>}})
-
-[//]: # ({{</* slide background-color="#0000FF" */>}})
-
-[//]: # ({{</* slide class="my-style" */>}})
-
-[//]: # (```)
-
-[//]: # ()
-[//]: # (---)
-
-[//]: # ()
-[//]: # (## Custom CSS Example)
-
-[//]: # ()
-[//]: # (Let's make headers navy colored.)
-
-[//]: # ()
-[//]: # (Create `assets/css/reveal_custom.css` with:)
-
-[//]: # ()
-[//]: # (```css)
-
-[//]: # (.reveal section h1,)
-
-[//]: # (.reveal section h2,)
-
-[//]: # (.reveal section h3 {)
-
-[//]: # (  color: navy;)
-
-[//]: # (})
-
-[//]: # (```)
-
-[//]: # ()
-[//]: # (---)
-
-[//]: # ()
-[//]: # (# Questions?)
-
-[//]: # ()
-[//]: # ([Ask]&#40;https://discord.gg/z8wNYzb&#41;)
-
-[//]: # ()
-[//]: # ([Documentation]&#40;https://wowchemy.com/docs/content/slides/&#41;)
