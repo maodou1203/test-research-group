@@ -1,14 +1,18 @@
 ---
 title: Gauss–Jordan elimination-based image tampering detection and self-recovery
 authors:
-- Xiaochen Yuan
-- Xinhang Li
-- Tong Liu
+- admin
+- admin-XinhangLi
+- admin-TongLiu
+author_notes:
+- "corresponding author"
+- ""
+- ""
 date: '2021-01-01'
 publishDate: '2024-01-12T13:02:32.788599Z'
 publication_types:
 - article-journal
-publication: '*Signal Processing: Image Communication*'
+publication: "in *Signal Processing: Image Communication* [SCI, JCR Q2]"
 doi: https://doi.org/10.1016/j.image.2020.116038
 abstract: This paper proposes a novel Gauss–Jordan elimination-based image tampering
   detection and self-recovery scheme, aiming at dealing with the problem of malicious

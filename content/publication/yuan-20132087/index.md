@@ -1,14 +1,14 @@
 ---
 title: Geometric invariant watermarking by local Zernike moments of binary image patches
 authors:
-- Xiao-Chen Yuan
+- admin
 - Chi-Man Pun
 - C.-L. Philip Chen
 date: '2013-01-01'
 publishDate: '2024-01-12T13:02:33.070762Z'
 publication_types:
 - article-journal
-publication: '*Signal Processing*'
+publication: 'in *Signal Processing* [SCI, JCR Q2]'
 doi: https://doi.org/10.1016/j.sigpro.2013.01.024
 abstract: A novel digital image watermarking scheme based on feature extraction and
   local Zernike transform is proposed in this paper. We proposed a local Zernike moments
