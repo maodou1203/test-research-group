@@ -6,13 +6,13 @@ authors:
 - Qin He
 - Zihao Dai
 - Guo Zhong
-- Xiaochen Yuan
+- admin
 - Chi-Man Pun
 date: '2023-01-01'
 publishDate: '2024-01-12T13:25:46.891777Z'
 publication_types:
 - article-journal
-publication: '*IEEE Transactions on Computational Social Systems*'
+publication: 'in *IEEE Transactions on Computational Social Systems* [SCI, JCR Q1]'
 doi: 10.1109/TCSS.2023.3323402
 abstract: Multimodal named entity recognition (MNER) is a crucial task in social systems
   of artificial intelligence that requires precise identification of named entities

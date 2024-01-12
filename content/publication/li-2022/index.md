@@ -1,18 +1,12 @@
 ---
 title: Power normalized cepstral robust features of deep neural networks in a cloud
   computing data privacy protection scheme
-authors:
-- Mianjie Li
-- Zhihong Tian
-- Xiaojiang Du
-- Xiaochen Yuan
-- Chun Shan
-- Mohsen Guizani
+authors: ["admin-MianjieLi", "Zhihong Tian", "Xiaojiang Du", "admin", "Chun Shan", "Mohsen Guizani"]
 date: '2022-01-01'
 publishDate: '2024-01-12T13:02:32.856271Z'
 publication_types:
 - article-journal
-publication: '*Neurocomputing*'
+publication: "in *Neurocomputing* [SCI, JCR Q2]"
 doi: https://doi.org/10.1016/j.neucom.2022.11.001
 abstract: Deep Neural Networks (DNNs) have developed rapidly in data privacy protection
   applications such as medical treatment and finance. However, DNNs require high-speed
