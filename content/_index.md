@@ -107,4 +107,53 @@ sections:
     design:
       view: compact
       columns: '2'
+
+  - block: contact
+    id: contact
+    content:
+      title: Contact
+      subtitle:
+      email: xcyuan@mpu.edu.mo
+      phone: +853-85996434
+      address:
+        street: R. de Luís Gonzaga Gomes
+        city: Macau 
+    
+    
+      coordinates:
+        latitude: '22.1936'
+        longitude: '113.5518'
+      directions: Office A313, Chi Un Building
+      office_hours:
+        - ''
+
+      # Choose a map provider in `params.yaml` to show a map from these coordinates
+      coordinates:
+        latitude: '37.4275'
+        longitude: '-122.1697'  
+#      contact_links:
+#        - icon: twitter
+#          icon_pack: fab
+#          name: DM Me
+#          link: 'https://twitter.com/Twitter'
+#        - icon: skype
+#          icon_pack: fab
+#          name: Skype Me
+#          link: 'skype:echo123?call'
+#        - icon: video
+#          icon_pack: fas
+#          name: Zoom Me
+#          link: 'https://zoom.com'
+      # Automatically link email and phone or display as text?
+      autolink: true
+      # Email form provider
+      form:
+        provider: netlify
+        formspree:
+          id:
+        netlify:
+          # Enable CAPTCHA challenge to reduce spam?
+          captcha: false
+    design:
+      columns: '2'
 ---
