@@ -1,5 +1,5 @@
 ---
-title: Image detection and self-recovery 
+title: <div class="justify-align"> Image detection and self-recovery </div>
 summary: <div class="justify-align">The aim of this study is to protect image content and minimize the impact of watermarks on images by using fragile watermarking techniques to locate and recover tampered areas in the images.</div>
 tags:
   - Image Self-recovery
