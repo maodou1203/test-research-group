@@ -22,6 +22,16 @@ url_pdf: ''
 url_slides: ''
 url_video: ''
 
+sections:
+  - block: about.biography
+    id: about
+    content:
+      title: Biography
+      # Choose a user profile to display (a folder name within `content/authors/`)
+      username: admin
+  
+
+
 # Slides (optional).
 #   Associate this project with Markdown slides.
 #   Simply enter your slide deck's filename without extension.
