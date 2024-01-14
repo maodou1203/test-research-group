@@ -41,4 +41,7 @@ tags:
 - Media
 - successive content self-recovery
 - tamper detection
+
+projects:
+  - Image self-recovery
 ---

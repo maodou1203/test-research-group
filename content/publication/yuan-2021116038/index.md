@@ -43,4 +43,6 @@ tags:
 links:
 - name: URL
   url: https://www.sciencedirect.com/science/article/pii/S0923596520301855
+projects:
+  - Image self-recovery
 ---

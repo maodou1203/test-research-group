@@ -34,4 +34,6 @@ abstract: In this paper, we propose a novel Comprehensive-Monitoring-Motivated M
 links:
 - name: URL
   url: https://linkinghub.elsevier.com/retrieve/pii/S131915782300349X
+projects:
+  - Image self-recovery
 ---

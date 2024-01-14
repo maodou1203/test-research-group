@@ -39,4 +39,6 @@ abstract: This paper proposes a scheme for localization and restoration of image
 links:
 - name: URL
   url: https://linkinghub.elsevier.com/retrieve/pii/S0957417423007303
+projects:
+  - Image self-recovery
 ---
