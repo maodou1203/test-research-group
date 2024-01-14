@@ -10,7 +10,7 @@ date: '2020-04-27T00:00:00Z'
 external_link: ''
 
 image:
-  caption: Image tamper detection and self-recovry based on watermarking
+  caption: Image tamper detection and self-recovery based on watermarking
   focal_point: Smart
 
 #links:
