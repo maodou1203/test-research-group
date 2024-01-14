@@ -37,16 +37,16 @@ sections:
       buttons:
         - name: All
           tag: '*'
-        - name: Image Self-recovery
-          tag: Image Self-recovery
         - name: Digital Watermarking
           tag: Digital Watermarking
+        - name: Image Self-recovery
+          tag: Image Self-recovery
+        - name: Deep Learning
+          tag: Deep Learning
         - name: AI Security
           tag: AI Security
         - name: Multimedia Forensics
           tag: Multimedia Forensics
-        - name: Deep Learning
-          tag: Deep Learning
         - name: Remote imaging
           tag: Remote imaging
     design:
