@@ -41,6 +41,8 @@ sections:
           tag: AI Security
         - name: Multimedia Forensics
           tag: Multimedia Forensics
+        - name: Image Self-recovery
+          tag: Image Self-recovery
         - name: Digital Watermarking
           tag: Digital Watermarking
         - name: Remote imaging
