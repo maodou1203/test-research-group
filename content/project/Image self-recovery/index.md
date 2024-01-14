@@ -1,6 +1,6 @@
 ---
 title: Image detection and self-recovery 
-summary: The aim of this study is to protect image content and minimize the impact of watermarks on images by using sensitive and fragile watermarking techniques to locate and recover tampered areas in the images.
+summary: The aim of this study is to protect image content and minimize the impact of watermarks on images by using fragile watermarking techniques to locate and recover tampered areas in the images.
 
 tags:
   - Image Self-recovery
