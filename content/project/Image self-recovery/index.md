@@ -5,7 +5,7 @@ summary: The aim of this study is to protect image content and minimize the impa
 tags:
   - Image Self-recovery
   - Digital Watermarking
-date: '2016-04-27T00:00:00Z'
+date: '2020-04-27T00:00:00Z'
 
 # Optional external URL for project (replaces project detail page).
 external_link: ''
