@@ -10,7 +10,7 @@ date: '2016-04-27T00:00:00Z'
 external_link: ''
 
 image:
-  caption: Photo by rawpixel on Unsplash
+  caption: Image tamper detection and self-recovry based on watermarking
   focal_point: Smart
 
 #links:
