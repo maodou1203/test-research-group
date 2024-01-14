@@ -21,7 +21,7 @@ sections:
 #      # Duration of transition between slides (in ms)
 #      interval: 2000
   - block: portfolio
-    id: projects
+    id: research areas
     content:
       title: Research Areas
       filters:
