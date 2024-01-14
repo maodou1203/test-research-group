@@ -49,4 +49,6 @@ tags:
 links:
 - name: URL
   url: https://www.mdpi.com/2072-4292/15/2/497
+projects:
+  - AI model Protection
 ---
