@@ -42,4 +42,6 @@ tags:
 - image self-recovery
 - Set partitioning in hierarchical trees (SPIHT)
 - Stucki Kernel halftone technique
+projects:
+  - Image self-recovery
 ---
