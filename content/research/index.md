@@ -23,7 +23,7 @@ sections:
   - block: portfolio
     id: projects
     content:
-      title: Projects
+      title: Research area
       filters:
         folders:
           - project
@@ -37,10 +37,14 @@ sections:
       buttons:
         - name: All
           tag: '*'
-        - name: Deep Learning
-          tag: Deep Learning
-        - name: Other
-          tag: Demo
+        - name: AI Security
+          tag: AI Security
+        - name: Multimedia Forensics
+          tag: Multimedia Forensics
+        - name: Digital Watermarking
+          tag: Digital Watermarking
+        - name: Remote imaging
+          tag: Remote imaging
     design:
       # Choose how many columns the section has. Valid values: '1' or '2'.
       columns: '1'
