@@ -23,10 +23,10 @@ sections:
   - block: portfolio
     id: projects
     content:
-      title: Research area
+      title: Research Areas
       filters:
         folders:
-          - project
+          - research areas
       # Default filter index (e.g. 0 corresponds to the first `filter_button` instance below).
       default_button_index: 0
       # Filter toolbar (optional).
